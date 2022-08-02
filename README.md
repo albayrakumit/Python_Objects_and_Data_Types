@@ -29,3 +29,18 @@ Used Codes
 
 - print() = for printing the result on screen
 - type() = for printing type of value
+
+
+# Math-Operators
+Learning how to use math operators
+
+Used Codes
+
+- Print() = for printing results on screen
+- Sum = +
+- Minus = -
+- Multiplication = *
+- Divide = /
+- Exponentiation = **
+- Mod = %
+- Full Division = //
