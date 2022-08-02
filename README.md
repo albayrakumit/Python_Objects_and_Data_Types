@@ -16,3 +16,16 @@ NOTE:
    print(type(x))
    print(x)
    ![image](https://user-images.githubusercontent.com/99753252/182428579-6ab8e367-f0fb-4e36-8210-4da1d845d7f8.png)
+
+
+   # Integer-Float-Values
+Learning Integer and Float Values
+
+descriptions
+Integer = 2,6,8,10
+Float = 2.8, 5.8, 10.5
+
+Used Codes
+
+- print() = for printing the result on screen
+- type() = for printing type of value
